@@ -1,0 +1,6 @@
+C:\Users\germa\OneDrive\Documentos\German\UAI\Programacion orientada a objetos\Poo_ejercicio10_vFinal\Ejercicio10_Final\KindergardenLib\bin\Debug\KindergardenLib.dll
+C:\Users\germa\OneDrive\Documentos\German\UAI\Programacion orientada a objetos\Poo_ejercicio10_vFinal\Ejercicio10_Final\KindergardenLib\bin\Debug\KindergardenLib.pdb
+C:\Users\germa\OneDrive\Documentos\German\UAI\Programacion orientada a objetos\Poo_ejercicio10_vFinal\Ejercicio10_Final\KindergardenLib\obj\Debug\KindergardenLib.csproj.AssemblyReference.cache
+C:\Users\germa\OneDrive\Documentos\German\UAI\Programacion orientada a objetos\Poo_ejercicio10_vFinal\Ejercicio10_Final\KindergardenLib\obj\Debug\KindergardenLib.csproj.CoreCompileInputs.cache
+C:\Users\germa\OneDrive\Documentos\German\UAI\Programacion orientada a objetos\Poo_ejercicio10_vFinal\Ejercicio10_Final\KindergardenLib\obj\Debug\KindergardenLib.dll
+C:\Users\germa\OneDrive\Documentos\German\UAI\Programacion orientada a objetos\Poo_ejercicio10_vFinal\Ejercicio10_Final\KindergardenLib\obj\Debug\KindergardenLib.pdb
